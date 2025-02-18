@@ -1,5 +1,5 @@
 初始頁面
-<img width="1277" alt="image" src="https://github.com/user-attachments/assets/bc65b323-f4e6-4824-a8be-f3ebe47ca56c" />
+<img width="1273" alt="image" src="https://github.com/user-attachments/assets/c6be0735-b962-44fd-89fc-48109da4fa5d" />
 顯示群組成員名單
 <img width="1278" alt="image" src="https://github.com/user-attachments/assets/9d25dca0-fb9a-4779-a1e1-d16ec71630b6" />
 輸入文字或圖片
