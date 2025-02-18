@@ -1,11 +1,15 @@
-初始頁面
+1.初始頁面
 <img width="1273" alt="image" src="https://github.com/user-attachments/assets/c6be0735-b962-44fd-89fc-48109da4fa5d" />
-顯示群組成員名單
-<img width="1278" alt="image" src="https://github.com/user-attachments/assets/9d25dca0-fb9a-4779-a1e1-d16ec71630b6" />
-輸入文字或圖片
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/ee1061d0-4be6-43c2-92d6-ce8ea9266f01" />
-可進行留言反應(喜歡，愛心，大笑) 未完成
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/9a2cad11-179c-42e2-b492-11cb9f2a2ed1" />
+
+2.選擇群組後，顯示群組成員名單(有加入current user所以會多一個成員)
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/3fffc02a-40e5-4d97-8894-cfcab9942446" />
+
+3.輸入訊息文字或圖片
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/0833fe11-a616-4718-a7aa-deaaa2f64393" />
+
+可進行留言反應(喜歡，愛心，大笑) 僅UI顯示功能未完成
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/71c1df01-6ec9-42f9-9bcc-8fa691ac8262" />
+
 
 
 
